@@ -1,5 +1,5 @@
 
-# Jogo da Velha com React + Vite
+# Jogo da Velha
 
 ## 🎯 Objetivo
 Um simples jogo da velha (tic-tac-toe) feito com React e Vite.
